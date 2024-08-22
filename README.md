@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @KeyiDing
-- Undergrad@Johns Hopkins double majoring in Physics & Compsci and minoring in Space Science & Applied Math
+- Graduate Student | Department of Astronomy | University of Maryland, College Park
+- B.S. Physics & Computer Science, Johns Hopkins University

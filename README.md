@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KeyiDing
 - Graduate Student | Department of Astronomy | University of Maryland, College Park
-- B.S. Physics & Computer Science, Johns Hopkins University
+- B.S. Physics & Computer Science | Johns Hopkins University
